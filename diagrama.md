@@ -65,4 +65,3 @@ erDiagram
 2. Regla de negocio:
    Si nota_final >= 7 → estado = "Aprobado"
    Si nota_final < 7 → estado = "Reprobado"
-   
